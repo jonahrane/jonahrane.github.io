@@ -1,0 +1,23 @@
+body {
+	width: 980px;
+	margin: 0 auto;
+	background-color: #d6e5e3;
+	text-align: center;
+
+}
+
+h3{
+	font-size: 24px;
+
+}
+
+p{
+	font-size: 18px;
+}
+
+footer{
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+
+}
